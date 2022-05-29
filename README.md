@@ -3,10 +3,14 @@
 
 Normal school classes are monotonous due to which a student fails to visualize different concepts especially of science and eventually loses **interest in learning**.
 Concerning these problems, we propose a stable solution.
+
 We present **VidyaVerse** which will be a Revolutionary platform of **‘knowledge’ reality**.
+
 We aim to level up the quality of education by enhanced **Augmented Reality visuals** and providing an edge over educational concepts.
 Thereby we will introduce these concepts through **gamification** and AR Visuals, and to maintain the spirit of competition, we will be building a reward system with **VidyaCoins**.
+
 VidyaVerse will be a **mobile application platform** for teachers, students and educational institutions which will enable sharing of AR study modules like AR chemistry to understand complex reactions, etc. and many more. It will feature **Gamified quizes** where teachers can design quizzes and students can play and compete with other peers.
+
 VidyaVerse will be a full fledged platform where teachers will be able to deliver personalized content and track **student performance**.
 
 VidyaVerse also pronounces the MetaVerse of ClassRooms. 
