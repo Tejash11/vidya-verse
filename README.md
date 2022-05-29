@@ -9,6 +9,11 @@ Thereby we will introduce these concepts through **gamification** and AR Visuals
 VidyaVerse will be a **mobile application platform** for teachers, students and educational institutions which will enable sharing of AR study modules like AR chemistry to understand complex reactions, etc. and many more. It will feature **Gamified quizes** where teachers can design quizzes and students can play and compete with other peers.
 VidyaVerse will be a full fledged platform where teachers will be able to deliver personalized content and track **student performance**.
 
+VidyaVerse also pronounces the MetaVerse of ClassRooms. 
+The success of the Metaverse, is not really about the technology, but about how many people adopt the idea of virtual experiences and participate in Metaverse concepts. 
+
+In the 3D Metaverse students will experience the culture, history and geography of a place while trying to solve a mathematical problem, for instance. The environment will be constantly updated with user-generated worlds that inter-connect and provide students with enhanced platforms for deriving deeper meaning and problem solving like never before.
+
 When we look at **Covid-19** pandemic which has affected every single country in the world. Education was one of the most adversely affected part by this pandemic especially for the students of primary and middle schools as they had been missing their in person (offline) interactive classes and found it much difficult to connect to their teachers and the concepts taught by them. This not only affected their academics but also a big threat to the emerging minds of the future.
 
 Even though e-learning has become a new normal for us, faculties and students are still facing loads of difficulties. Different online platforms are just trying to connect teachers and students but they are not able to take account of their learning and certainly not taking part in introducing Augmented Reality to make understanding easier.
